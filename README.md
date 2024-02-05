@@ -1,6 +1,6 @@
 # Lend-Logic
 
-# LandLogic-app
+# LendLogic-app
 [Link](https://land-logic-app-frontend.vercel.app/) to the app deployed on Vercel.
 [Video](https://youtu.be/WsQBYR9njp8) presentation of our app.
 [Backend here](https://github.com/MartiZu/LendLogic-backend)
